@@ -6,4 +6,5 @@
 **Day 2 :** Learned about type casting, math operators and rounding the values.                                                                                                                
 **Programs made :** BMI calculator, Bill splitter.
 
-Day 3 : 
+**Day 3 :** Learned about conditional statement, AND, NOT and OR.
+**Programs made :** BMI calculator
