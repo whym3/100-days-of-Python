@@ -8,6 +8,8 @@
 
 **Day 3 :** Learned about conditional statement, AND, NOT and OR.                                                                                                                             
 **Programs made :** BMI calculator
+
+
 **Day 4 :** Learned about lists                                                                                                                             
 **Programs made :** Nested lists, Treasure safe
 
