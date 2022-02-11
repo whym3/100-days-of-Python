@@ -15,3 +15,5 @@
 
 **Day 5 :** Learned about loops in python, range function                                                                                                                             
 **Programs made :** Password creator, largest in the list, average, Buzz fizz game
+
+**Day 6 :** Learned about functions and while loop
